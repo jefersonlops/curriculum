@@ -11,7 +11,7 @@ Desenvolvimento e melhorias de sistemas, projetos com foco em arquitetura e infr
 #### Contato
 * LinkedIn: https://www.linkedin.com/in/jeferson10p35/
 * GitHub: https://github.com/jefersonlops
-Jandira, SP, Brazil
+* Jandira, SP, Brazil
 
 #### Principais competências
 * Linux System Administration 
