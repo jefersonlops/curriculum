@@ -1,16 +1,8 @@
 # Jeferson Lopes de Oliveira Mendes
 
-### Contato:
-LinkedIn: https://www.linkedin.com/in/jeferson10p35/
-GitHub: https://github.com/jefersonlops
-
-Jandira, SP, Brazil
-
-#### Interesses
-* Analista de Infraestrutura Linux
-* Computação em Nuvem
-* Infraestrutura como Código
-* Soluções Open Source
+| Contato                                                      | Resumo                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| LinkedIn: https://www.linkedin.com/in/jeferson10p35/<br /> GitHub: https://github.com/jefersonlops<br />Jandira, SP, Brazil<br /><br />**Principais competências**<br />* Linux System Administration<br />* Infraestrutura de Tecnologia da Informação<br />* Virtualização<br /><br />**Interesses**<br />* Analista de Infraestrutura Linux<br />* Computação em Nuvem<br />* Infraestrutura como Código<br />* Soluções Open Source | Linuxer, analista de tecnologia da informação, administrador de sistemas, músico...<br/><br/>Inovação tecnológica, projetos e novas ideias visando sempre uma melhoria contínua sem deixar de lado a segurança e estabilidade.<br/><br/>Desenvolvimento e melhorias de sistemas, projetos com foco em arquitetura e infraesturas de tecnologia da informação, com uso e melhores práticas de virtualização de servidores e gerenciamento de containers, monitoramento de serviços críticos, análises de logs e aplicação de patchs para correções de sistemas. |
 
 ### Experiência
 
