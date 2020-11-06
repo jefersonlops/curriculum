@@ -11,7 +11,7 @@ Desenvolvimento e melhorias de sistemas, projetos com foco em arquitetura e infr
 #### Contato
 * LinkedIn: https://www.linkedin.com/in/jeferson10p35/
 * GitHub: https://github.com/jefersonlops
-* Jandira, SP, Brazil
+Jandira, SP, Brazil
 
 #### Principais competências
 * Linux System Administration 
@@ -74,6 +74,9 @@ _De Abril de 2008 à Maio de 2011 (3 anos 2 meses)_
 * Inventário do hardware e software, manutenção e prazos de garantia;
 * Processo e análise de novas aquisições e homologações voltadas a Tecnologia da
 Informação;
+
+Enquanto colaborador, gerenciei o projeto de implantação da rede de computadores, implantando o Ambiente de Diretórios em Servidores Linux/Windows com openLDAP e Active Directory; Inventário do hardware e software, manutenção e prazos de garantia, processo e análise de novas aquisições e homologações voltadas a Tecnologia da Informação, bem como
+a implantação de ambiente de Virtualização de Servidores com VMware ESXi;
 
 ### Projetos
 
