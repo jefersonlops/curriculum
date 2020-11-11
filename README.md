@@ -6,7 +6,7 @@ Linuxer, analista de tecnologia da informação, administrador de sistemas, mús
 
 Inovação tecnológica, projetos e novas ideias visando sempre uma melhoria contínua sem deixar de lado a segurança e estabilidade.
 
-Desenvolvimento e melhorias de sistemas, projetos com foco em arquitetura e infraesturas de tecnologia da informação, com uso e melhores práticas de virtualização de servidores e gerenciamento de containers, monitoramento de serviços críticos, análises de logs e aplicação de patchs para correções de sistemas. 
+Desenvolvimento e melhorias de sistemas, projetos com foco em arquitetura e infraesturas de tecnologia da informação, com uso e melhores práticas de virtualização de servidores e gerenciamento de containers, monitoramento de serviços críticos, análises de logs.
 
 #### Contato
 * LinkedIn: https://www.linkedin.com/in/jeferson10p35/
