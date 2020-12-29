@@ -60,7 +60,7 @@ _De Junho de 2011 - até o momento_
 	* Serviços e aplicações web com _nginx_ e _php/php-fpm_,  _wordpress_ , banco de dados _mariadb_
 	* _Dockerfiles_ e _docker-compose_
 	* Build, Backup e Restore de imagens e containers
-* Repositório de código fonte: _Git_/_GitHub_ e _Gitea_ on-primese 
+* Repositório de código fonte: _Git_/_GitHub_(online) e _Gitea_ on-premise 
 
 **Induspol Ind. e Com. de Polímeros Ltda**
 * Suporte em Redes e Tecnologia da Informação
@@ -72,11 +72,9 @@ _De Abril de 2008 à Maio de 2011 (3 anos 2 meses)_
 * Administração de rede de computadores;
 * Implantação de ambiente de Virtualização de Servidores VMware ESXi;
 * Inventário do hardware e software, manutenção e prazos de garantia;
-* Processo e análise de novas aquisições e homologações voltadas a Tecnologia da
-Informação;
+* Processo e análise de novas aquisições e homologações voltadas a Tecnologia da Informação;
 
-Enquanto colaborador, gerenciei o projeto de implantação da rede de computadores, implantando o Ambiente de Diretórios em Servidores Linux/Windows com openLDAP e Active Directory; Inventário do hardware e software, manutenção e prazos de garantia, processo e análise de novas aquisições e homologações voltadas a Tecnologia da Informação, bem como
-a implantação de ambiente de Virtualização de Servidores com VMware ESXi;
+Enquanto colaborador, gerenciei o projeto de implantação da rede de computadores, implantando o Ambiente de Diretórios em Servidores Linux/Windows com openLDAP e Active Directory; Inventário do hardware e software, manutenção e prazos de garantia, processo e análise de novas aquisições e homologações voltadas a Tecnologia da Informação, bem como a implantação de ambiente de Virtualização de Servidores com VMware ESXi;
 
 ### Projetos
 
